@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Stars"
+        android:id="@+id/stars"/>
+    <item
+        android:title="Watchers count"
+        android:id="@+id/watcher"/>
+
+    <item
+        android:title="Score"
+        android:id="@+id/score"/>
+
+    <item
+        android:title="name"
+        android:id="@+id/name"/>
+
+    <item
+        android:title="Created At"
+        android:id="@+id/createdAt"/>
+
+    <item
+        android:title="Updated At"
+        android:id="@+id/updatedAt"/>
+
+</menu>
